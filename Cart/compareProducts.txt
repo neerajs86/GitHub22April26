@@ -1,1 +1,3 @@
 This is to compare products only.
+
+Shows details of products features and compares which are best for customers to make a choice.
