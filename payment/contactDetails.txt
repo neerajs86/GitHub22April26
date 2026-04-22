@@ -2,3 +2,7 @@ Contact Details page.
 
 This includes following personal details of the customer
 Full Name, Address, Contact Number, State, City, Landmark, Country, Pin Code.
+
+This also includes -
+Alternate Contact number
+Permanent and Present Address
